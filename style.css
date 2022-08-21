@@ -1,0 +1,32 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.container {
+  width: 400px;
+}
+
+#music-image {
+  width: 100%;
+  object-fit: cover;
+}
+
+#progress .times,
+.card-footer,
+.volume-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#volume {
+  margin: 0 10px;
+}
+
+li.playing {
+  background-color: #0b5eb7;
+  color: #fff;
+}
