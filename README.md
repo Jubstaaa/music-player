@@ -6,4 +6,3 @@ Bu repo JavaScript kursumda hazırlamış olduğum music player uygulamasıdır.
 
 https://jubstaa-musicplayer.netlify.app/
 
-test
