@@ -1,6 +1,6 @@
 # Music Player
 
-Bu repo JavaScript kursumda hazırlamış olduğum music player uygulamasıdır.
+This repo is the music player application I prepared in my JavaScript course.
 
 ## Live Preview
 
